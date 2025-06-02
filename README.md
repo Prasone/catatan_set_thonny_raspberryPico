@@ -80,24 +80,23 @@ Setelah disimpan, cukup sambungkan Pico W ke sumber daya, dan program akan langs
 ### Langkah 1
 -upload file firmware drag n drop
 ![Langkah 1](/aset/1.png)
-)
+
 
 ### Langkah 2
 -setting dengan thonny
+
 ![Langkah 2](/aset/2.png)
-)
 ![Langkah 2](/aset/3.png)
-)
 ![Langkah 2](/aset/4.png)
-)
+
 
 -setelah di install klik lagi pojok kanan bawah untuk terhubung ke rapberry pico w
 ![Langkah 2](/aset/5.png)
-)
+
 
 ### Langkah 3
 -save as program pilih rapberry pi pico untuk di simpan pada mikon
 ![Langkah 3](/aset/6.png)
-)
+
 
 ----
