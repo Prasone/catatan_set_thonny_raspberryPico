@@ -77,26 +77,35 @@ Setelah disimpan, cukup sambungkan Pico W ke sumber daya, dan program akan langs
 
 ## Ilustrasi Langkah-Langkah
 
+---
+
 ### Langkah 1
--upload file firmware drag n drop
+**Upload file firmware (drag and drop)**  
 ![Langkah 1](/aset/1.png)
 
+---
 
 ### Langkah 2
--setting dengan thonny
+**Setting dengan Thonny**
 
-![Langkah 2](/aset/2.png)
-![Langkah 2](/aset/3.png)
-![Langkah 2](/aset/4.png)
+1. Buka Thonny dan lakukan pengaturan awal.  
+   ![Langkah 2 - Setting Awal](/aset/2.png)
 
+2. Pilih interpreter Raspberry Pi Pico W.  
+   ![Langkah 2 - Pilih Interpreter](/aset/3.png)
 
--setelah di install klik lagi pojok kanan bawah untuk terhubung ke rapberry pico w
-![Langkah 2](/aset/5.png)
+3. Install firmware jika belum terinstall.  
+   ![Langkah 2 - Install Firmware](/aset/4.png)
 
+4. Setelah di-install, klik lagi pojok kanan bawah untuk terhubung ke Raspberry Pi Pico W.  
+   ![Langkah 2 - Hubungkan ke Pico W](/aset/5.png)
+
+---
 
 ### Langkah 3
--save as program pilih rapberry pi pico untuk di simpan pada mikon
-![Langkah 3](/aset/6.png)
+**Simpan program ke Raspberry Pi Pico**
 
+- Pilih menu "Save As" lalu pilih "Raspberry Pi Pico" agar program disimpan ke mikrokontroler.  
+  ![Langkah 3 - Simpan Program](/aset/6.png)
 
 ----
