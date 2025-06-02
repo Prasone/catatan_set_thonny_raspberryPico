@@ -3,6 +3,18 @@
 Panduan ini menjelaskan cara mengatur Raspberry Pi Pico W menggunakan MicroPython dan Thonny IDE.
 
 ---
+Pinout Raspberry pi pico W
+![PinOut](/aset/pico-pinout.png)
+
+---
+pin ir dan ultrasonik 
+![pins](/aset/pin.png)
+
+---
+Skematik
+![Skematik]()
+
+---
 
 ## 1. Install Python
 
@@ -67,25 +79,25 @@ Setelah disimpan, cukup sambungkan Pico W ke sumber daya, dan program akan langs
 
 ### Langkah 1
 -upload file firmware drag n drop
-![Langkah 1](/)
+![Langkah 1](/aset/1.png)
 )
 
 ### Langkah 2
 -setting dengan thonny
-![Langkah 2](![image](https://github.com/user-attachments/assets/4aa9e852-649e-48c6-a83c-4154989fac6d)
+![Langkah 2](/aset/2.png)
 )
-![Langkah 2](![image](https://github.com/user-attachments/assets/5324fdde-a287-4911-967c-685e9b0d80a2)
+![Langkah 2](/aset/3.png)
 )
-![Langkah 2](![image](https://github.com/user-attachments/assets/792dbdf4-4735-46d6-a1d8-c9374ee264f6)
+![Langkah 2](/aset/4.png)
 )
 
 -setelah di install klik lagi pojok kanan bawah untuk terhubung ke rapberry pico w
-![Langkah 2](![image](https://github.com/user-attachments/assets/b2d325b3-0d46-4dd1-a6c8-4e5ef3443eab)
+![Langkah 2](/aset/5.png)
 )
 
 ### Langkah 3
 -save as program pilih rapberry pi pico untuk di simpan pada mikon
-![Langkah 3](![image](https://github.com/user-attachments/assets/9fa43bfe-a1e9-44bb-a4d6-c1a070dd0c35)
+![Langkah 3](/aset/6.png)
 )
 
 ----
