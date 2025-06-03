@@ -16,7 +16,7 @@ Skematik
 
 ---
 Output
-
+![Output](/aset/output.png)
 
 ---
 
