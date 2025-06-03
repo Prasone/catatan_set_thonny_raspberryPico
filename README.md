@@ -12,7 +12,11 @@ pin ir dan ultrasonik
 
 ---
 Skematik
-![Skematik]()
+![Skematik](/skematik/skematik_bb.png)
+
+---
+Output
+
 
 ---
 
