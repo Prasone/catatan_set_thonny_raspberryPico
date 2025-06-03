@@ -95,7 +95,7 @@ Setelah disimpan, cukup sambungkan Pico W ke sumber daya, dan program akan langs
 1. Buka Thonny dan lakukan pengaturan awal.  
    ![Langkah 2 - Setting Awal](/aset/2.png)
 
-2. Pilih interpreter Raspberry Pi Pico W, install Install firmware jika belum terinstall.  
+2. Pilih interpreter Raspberry Pi Pico W, Install firmware jika belum terinstall.  
    ![Langkah 2 - Pilih Interpreter](/aset/3.png)
 
 3. pilih variant yang sesuai.  
